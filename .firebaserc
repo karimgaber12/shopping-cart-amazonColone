@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "myclone-ed12f": {
+      "hosting": {
+        "amazoneColone": [
+          "myclone-ed12f"
+        ]
+      }
+    }
+  }
+}
